@@ -34,6 +34,7 @@ UI Layer – Chat interface, health data forms, visualizations
 Application Layer – FastAPI handles routing, sessions, and IBM model integration
 Data Layer – Session and sample patient data
 AI Layer – IBM Granite responds to symptom inputs and treatment prompts
+
 📁 Folder Structure
 HealthAI/
 ├── static/                      # All frontend assets
